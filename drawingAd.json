@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AdNetwork"              : "admob",
+    "AdNetwork"              : "facebook",
     "IntervalClick"          : 1,
 
     "AdMob_Banner"           : "ca-app-pub-3071522790697118/5350728518",
@@ -10,9 +10,9 @@
     "AdMob_OpenAd"           : "ca-app-pub-3071522790697118/7190138381",
     "OpenAd_status"          : true ,
 
-    "Facebook_Banner"        : "763434985131583_763438455131236",
-    "Facebook_InterstitialAd": "763434985131583_763438505131231",
-    "Facebook_RewardAd"      : "763434985131583_763438598464555",
+    "Facebook_Banner"        : "IMG_16_9_APP_INSTALL#763434985131583_763438455131236",
+    "Facebook_InterstitialAd": "IMG_16_9_APP_INSTALL#763434985131583_763438505131231",
+    "Facebook_RewardAd"      : "IMG_16_9_APP_INSTALL#763434985131583_763438598464555",
 
     "Applovin_Banner"        : "",
     "Applovin_InterstitialAd": "",
